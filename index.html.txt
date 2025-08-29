@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>مرحبا بك في مشروع Tadwily</title>
+</head>
+<body style="font-family: Arial; text-align: center; padding-top: 50px;">
+  <h1>🚀 مشروع Tadwily قيد التطوير</h1>
+  <p>تابعنا قريبًا لإطلاق أفضل أدوات التداول بالذكاء الاصطناعي.</p>
+</body>
+</html>
